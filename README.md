@@ -35,11 +35,6 @@ I'm a passionate developer who loves learning new technologies, solving problems
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=haddoukcharfeddine&theme=onedark)
 
----
-
-### 😂 Dev Humor
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
