@@ -7,9 +7,8 @@ I'm a passionate developer who loves learning new technologies, solving problems
 ### 🚀 About Me
 
 - 🔧 Currently working on: Personal projects and open-source contributions  
-- 🌱 Learning: [List any technologies you're learning, e.g., TypeScript, Docker, etc.]  
 - 🧠 Interests: Full Stack Development, APIs, GitHub integrations  
-- 📬 Reach me: [Your email or LinkedIn/Twitter/GitHub profile link]
+  
 
 ---
 
@@ -37,7 +36,5 @@ I'm a passionate developer who loves learning new technologies, solving problems
 
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 
