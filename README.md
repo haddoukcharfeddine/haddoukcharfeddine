@@ -34,7 +34,18 @@ I'm a passionate developer who loves learning new technologies, solving problems
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=haddoukcharfeddine&theme=onedark)
 
-
 ---
 
+
+### 🔁  GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=haddoukcharfeddine&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
+---
+### 🗓️ GitHub Contributions Calendar
+[![Charfeddine's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=haddoukcharfeddine&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
