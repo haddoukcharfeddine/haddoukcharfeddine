@@ -49,3 +49,19 @@ I'm a passionate developer who loves learning new technologies, solving problems
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+![Metrics](https://raw.githubusercontent.com/haddoukcharfeddine/haddoukcharfeddine/master/github-metrics.svg)
+
+---
+![Snake animation](https://github.com/haddoukcharfeddine/haddoukcharfeddine/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
